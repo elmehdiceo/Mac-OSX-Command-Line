@@ -1,4 +1,3 @@
-# Mac-OSX-Commands-Line
 <img src="https://cdn.rawgit.com/herrbischoff/awesome-osx-command-line/master/assets/logo.svg" width="600">
 
 ### Transparency
